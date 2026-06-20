@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int t ; 
+    cin>>t ; 
+    while(t--){
+        int n ; 
+        cin >> n ; 
+        int ara  [n], sp= 0,mx=0 ;
+        for(int i  = 0; i < n ; i++){
+            cin>>ara[i];
+            if(ara[i]==0){
+                sp++;
+            }
+            else{
+                mx=max(mx,sp);
+                sp=0;
+            }
+        }
+        
+       
+        cout<<max(mx,sp)<<endl;
+       
+    }
+}

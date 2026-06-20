@@ -1,0 +1,1 @@
+{"name":"Local: rick2","url":"d:\\CP\\rick2.cpp","tests":[{"id":1776777782317,"input":"4\n1\n3\n4\n12\n","output":"2\n1\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\rick2.cpp","group":"local","local":true}

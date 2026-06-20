@@ -1,0 +1,62 @@
+Competitive Programming Ordered Problem List (Easy → Medium |
+Implementation → Math → Greedy → Mixed)
+
+SECTION 1: IMPLEMENTATION 1. Sum of Round Numbers
+https://codeforces.com/problemset/problem/1352/A 2. Boy or Girl
+https://codeforces.com/problemset/problem/236/A 3. Helpful Maths
+https://codeforces.com/problemset/problem/339/A 4. Way Too Long Words
+https://codeforces.com/problemset/problem/71/A 5. Next Round
+https://codeforces.com/problemset/problem/158/A 6. Tram
+https://codeforces.com/problemset/problem/116/A 7. Team
+https://codeforces.com/problemset/problem/231/A 8. Anton and Danik
+https://codeforces.com/problemset/problem/734/A 9. Beautiful Matrix
+https://codeforces.com/problemset/problem/263/A 10. Presents
+https://codeforces.com/problemset/problem/136/A
+
+SECTION 2: ARRAYS & STRINGS 11. Twins
+https://codeforces.com/problemset/problem/160/A 12. I Wanna Be the Guy
+https://codeforces.com/problemset/problem/469/A 13. Is your horseshoe on
+the other hoof? https://codeforces.com/problemset/problem/228/A 14.
+Amusing Joke https://codeforces.com/problemset/problem/141/A 15. Pangram
+https://codeforces.com/problemset/problem/520/A 16. Word
+https://codeforces.com/problemset/problem/59/A 17. Football
+https://codeforces.com/problemset/problem/43/A 18. Chat Server’s
+Outgoing Traffic https://codeforces.com/problemset/problem/5/A 19.
+Little Elephant and Bits https://codeforces.com/problemset/problem/258/A
+20. Stones on the Table https://codeforces.com/problemset/problem/266/A
+
+SECTION 3: MATH (CORE CP) 21. Wrong Subtraction
+https://codeforces.com/problemset/problem/977/A 22. T-primes
+https://codeforces.com/problemset/problem/230/B 23. Nearly Lucky Number
+https://codeforces.com/problemset/problem/110/A 24. Beautiful Year
+https://codeforces.com/problemset/problem/271/A 25. Lucky Division
+https://codeforces.com/problemset/problem/122/A 26. GCD vs LCM
+https://codeforces.com/problemset/problem/1758/A 27. Cheap Travel
+https://codeforces.com/problemset/problem/466/A 28. Bit Strings (CSES)
+https://cses.fi/problemset/task/1617/ 29. Common Divisors (CSES)
+https://cses.fi/problemset/task/1081/ 30. Powers of Two
+https://codeforces.com/problemset/problem/702/A
+
+SECTION 4: GREEDY 31. Buy a Shovel
+https://codeforces.com/problemset/problem/732/A 32. Dragons
+https://codeforces.com/problemset/problem/230/A 33. BerSU Ball
+https://codeforces.com/problemset/problem/489/B 34. Assigning Work
+https://codeforces.com/problemset/problem/1462/A 35. Queue at the School
+https://codeforces.com/problemset/problem/266/B 36. Polycarp Training
+https://codeforces.com/problemset/problem/1165/B 37. Sale
+https://codeforces.com/problemset/problem/34/B 38. Puzzles
+https://codeforces.com/problemset/problem/337/A
+
+SECTION 5: MIXED / LEVEL-UP 39. Two Arrays And Swaps
+https://codeforces.com/problemset/problem/1353/B 40. Choosing Teams
+https://codeforces.com/problemset/problem/432/A 41. Balanced Array
+https://codeforces.com/problemset/problem/1343/B 42. Sequence with
+Digits https://codeforces.com/problemset/problem/1355/A 43. Collecting
+Coins https://codeforces.com/problemset/problem/1294/A 44. Ordinary
+Numbers https://codeforces.com/problemset/problem/1520/B 45. Make It
+Increasing https://codeforces.com/problemset/problem/1675/B 46. Maximum
+Sum https://codeforces.com/problemset/problem/1082/B 47. Prefix Sum
+Addicts https://codeforces.com/problemset/problem/1332/B
+
+HOW TO USE: - Solve in order - If stuck > 20 minutes → read editorial →
+re-code - After every 10 problems → do 1 contest
