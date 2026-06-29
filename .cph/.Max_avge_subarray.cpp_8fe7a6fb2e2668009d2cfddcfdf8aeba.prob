@@ -1,0 +1,1 @@
+{"name":"Local: Max_avge_subarray","url":"d:\\CP\\Max_avge_subarray.cpp","tests":[{"id":1782575469505,"input":"6 4\n1 12 -5 -6 50 3","output":"12.75000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Max_avge_subarray.cpp","group":"local","local":true}
