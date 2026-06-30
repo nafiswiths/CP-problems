@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -30,7 +29,7 @@ int main() {
     }
 
     cout <<setprecision(5)<< (double)maxSum / k << '\n';
-=======
+}
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -62,5 +61,4 @@ int main() {
     }
 
     cout <<setprecision(5)<< (double)maxSum / k << '\n';
->>>>>>> adc0717ab3a705367261825e72cf851480e0435d
 }
